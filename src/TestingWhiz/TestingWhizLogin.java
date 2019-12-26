@@ -8,6 +8,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class TestingWhizLogin {
 
 
+	//test
+	
  static String DriverPath = "E:/software/geckodriver-v0.16.1-win64/geckodriver.exe";
  static	WebDriver driver=null;
 
